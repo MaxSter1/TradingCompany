@@ -1,0 +1,6 @@
+C:\Users\masik\OneDrive\Документы\3 курс\Cursova_PZ\DTO\bin\Debug\DTO.dll
+C:\Users\masik\OneDrive\Документы\3 курс\Cursova_PZ\DTO\bin\Debug\DTO.pdb
+C:\Users\masik\OneDrive\Документы\3 курс\Cursova_PZ\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\masik\OneDrive\Документы\3 курс\Cursova_PZ\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\masik\OneDrive\Документы\3 курс\Cursova_PZ\DTO\obj\Debug\DTO.dll
+C:\Users\masik\OneDrive\Документы\3 курс\Cursova_PZ\DTO\obj\Debug\DTO.pdb
